@@ -151,8 +151,6 @@ Run the notebook cells in order to load the dataset, explore the data, train the
 
 B.Tech Graduate | Aspiring Data Analyst | Machine Learning Enthusiast
 
-GitHub: [Add Your GitHub Profile Link](https://github.com/)
-
 ## ⭐ Support
 
 If you find this project useful, consider giving the repository a star ⭐ on GitHub.
